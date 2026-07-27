@@ -53,3 +53,12 @@ k = best_k        # <- change to k = 4 (or any number you want)
 
 ## Requirements
 See `requirements.txt` — pandas, numpy, scikit-learn, matplotlib, seaborn.
+
+## 👤 Author:
+
+[sujitha kannan] 
+
+📧 Email: k.sujithakannane2006@gmail.com 
+
+🔗 LinkedIn: www.linkedin.com/in/sujithakannan25
+
